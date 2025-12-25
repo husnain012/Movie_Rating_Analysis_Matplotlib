@@ -23,8 +23,10 @@ A comprehensive data analysis project exploring movie ratings, genres, and trend
 3. Matplotlib - Data visualization
 4. NumPy - Numerical operations
 
+# Usage
+```bash
 # Install dependencies
-pip install pandas matplotlib numpy
+pip install pandas matplotlib seaborn numpy
 
 # Run analysis
-python movie_analysis.py
+movie_rating_analysis.py
