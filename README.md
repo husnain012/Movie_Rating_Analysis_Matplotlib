@@ -26,7 +26,7 @@ A comprehensive data analysis project exploring movie ratings, genres, and trend
 # Usage
 ```bash
 # Install dependencies
-pip install pandas matplotlib seaborn numpy
+pip install pandas matplotlib numpy
 
 # Run analysis
 movie_rating_analysis.py
