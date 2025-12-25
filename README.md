@@ -29,4 +29,4 @@ A comprehensive data analysis project exploring movie ratings, genres, and trend
 pip install pandas matplotlib numpy
 
 # Run analysis
-movie_rating_analysis.py
+movie_ratings_analysis.py
